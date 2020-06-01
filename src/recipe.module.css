@@ -1,0 +1,21 @@
+.recipe{
+    border-radius: 10%;
+    background-color: wheat;
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #FEFAE0;
+    box-shadow: 0 0 10px #101010;
+    padding: 5px;
+}
+
+.title{
+    color: teal;
+    size: 1.5rem;
+}
+
+.image{
+    border-radius: 10%;
+}
